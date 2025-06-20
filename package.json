@@ -15,7 +15,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'build step (ajuste selon ton projet)'",
+    "build": "echo 'build (si on a un build à faire mais la non =D  ))'",
     "lint": "eslint .",
     "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
     "test:e2e": "playwright test"
