@@ -2,5 +2,5 @@ export default {
   use: {
     headless: true,
   },
-  testDir: 'tests',
+  testDir: 'e2e',
 };
