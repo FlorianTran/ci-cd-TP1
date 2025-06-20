@@ -17,10 +17,10 @@
   "scripts": {
     "build": "echo 'build step (ajuste selon ton projet)'",
     "lint": "eslint .",
-    "test": "jest",
-    "test:e2e": "playwright test"
+    "test": "jest"
   },
   "devDependencies": {
+    "eslint": "^9.29.0",
     "jest": "^29.7.0"
   }
 }
